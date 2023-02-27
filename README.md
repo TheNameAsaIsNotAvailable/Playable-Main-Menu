@@ -1,4 +1,4 @@
-# Playable-Main-Menu (2021)
+# Playable Main Menu (2021)
 A mod for Mafia: The City of Lost Heaven (2002).
 
 *<sub>Walk around inside the Main Menu scene, now built into the Tutorial.</sub>*
